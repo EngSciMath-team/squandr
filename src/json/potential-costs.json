@@ -1,0 +1,53 @@
+[
+  {
+    "id": 0,
+    "name": "Ending world poverty and hunger",
+    "category": "Global problems",
+    "year": null,
+    "location": null,
+    "description": "",
+    "sources": [
+      {
+        "title": "Achieving zero hunger: The critical role of investments in social protection and agriculture",
+        "author": "Food and agriculture organization of the United Nations",
+        "url": "http://www.fao.org/fileadmin/user_upload/newsroom/docs/Report-Achieving-Zero-Hunger.pdf",
+        "published": 2015,
+        "amount": 267000000000,
+        "perTimeUnit": "year",
+        "explanation": ""
+      }
+    ]
+  },
+
+  {
+    "id": 1,
+    "name": "Transitioning to sustainable energy sources",
+    "category": "Global problems",
+    "year": null,
+    "location": null,
+    "description": "",
+    "sources": [
+      {}
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Costs of single-payer healthcare in the US",
+    "category": "National policy",
+    "year": null,
+    "location": "United States",
+    "description": "",
+    "sources": [
+      {
+        "title": "How expensive would a single-payer system be?",
+        "author": "Louis Jacobson",
+        "url": "https://www.politifact.com/truth-o-meter/article/2017/jul/21/how-expensive-would-single-payer-system-be/",
+        "published": 2017,
+        "amount": 1380000000000,
+        "perTimeUnit": "year",
+        "explanation": ""
+      }
+    ]
+  }
+]

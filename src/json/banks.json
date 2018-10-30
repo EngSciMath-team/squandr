@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "Profits JPMorgan Chase & Co 2017",
+    "category": "Profits",
+    "year": 2017,
+    "location": null,
+    "description": "",
+    "sources": [
+      {
+        "title": "Quarterly earning",
+        "author": "JPMorgan Chase & Co",
+        "url": "https://www.jpmorganchase.com/corporate/investor-relations/quarterly-earnings.htm",
+        "amount": 24400000000,
+        "perTimeUnit": "year",
+        "explanation": "See file \"4Q17 Earnings Press Release\""
+      }
+    ]
+  }
+]

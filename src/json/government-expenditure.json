@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "United States military spending 2019",
+    "category": "Defense",
+    "year": 2019,
+    "location": "United States",
+    "description": "",
+    "sources": [
+      {
+        "title": "President Signs Fiscal 2019 Defense Authorization Act at Fort Drum Ceremony",
+        "author": "Jim Gamarone",
+        "url": "https://dod.defense.gov/News/Article/Article/1601016/president-signs-fiscal-2019-defense-authorization-act-at-fort-drum-ceremony/",
+        "amount": 717000000000,
+        "perTimeUnit": "year",
+        "explanation": ""
+      }
+    ]
+  }
+]

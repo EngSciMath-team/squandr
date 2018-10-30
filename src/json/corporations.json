@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "Profits Apple Inc. 2017",
+    "category": "Profits",
+    "year": 2017,
+    "location": null,
+    "description": "",
+    "sources": [
+      {
+        "title": "Consolidated Financial Statements",
+        "author": "Apple Inc.",
+        "url": "https://www.apple.com/newsroom/2017/11/apple-reports-fourth-quarter-results/",
+        "amount":  48351000000,
+        "perTimeUnit": "year",
+        "explanation": "Net income between 24 september 2016 and 30 september 2017"
+      }
+    ]
+  }
+]
